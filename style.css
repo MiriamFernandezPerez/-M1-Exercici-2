@@ -1,0 +1,33 @@
+header {
+  height: 11vh;
+  background-color: #e8ac06;
+  font-family: fantasy;
+  font-size:50px;
+}
+
+.logo {
+  height: 11vh;
+  float: left;
+  
+}
+
+.cabecera{
+    margin: auto; 
+    text-align: center;
+}
+
+.titulo{
+    padding: 1vh;
+}
+
+
+input{
+    margin: 1.5vh;
+}
+
+.resultado{
+    font-size: 3vh;
+    text-decoration: solid underline ;
+    margin-left: 2vh ;
+}
+
